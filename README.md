@@ -1,2 +1,4 @@
-# TestRepo
+# repo
 this is new repo
+Hello World repository for Git tutorial
+This is an example repository for the Git tutoial 
